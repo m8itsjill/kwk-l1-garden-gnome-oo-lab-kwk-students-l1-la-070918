@@ -1,3 +1,3 @@
 # Code your instances here
 class GardenGnome 
-  def initialize(hat=)
+  def initialize(hat_color="red")
